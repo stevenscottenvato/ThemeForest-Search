@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "EC2015C9-39EA-4277-A650-5647F03BA603",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 123,
+    "x": 28,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C676577E-EB43-43C1-831D-EC6E872260D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15564016-CDBA-4A37-AE4B-71FDA5A5F14E"
+    }
+  ],
+  "name": "LabelIcon Lockup",
+  "nameIsFixed": true,
+  "originalObjectID": "EC2015C9-39EA-4277-A650-5647F03BA603",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

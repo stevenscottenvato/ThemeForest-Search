@@ -1,0 +1,143 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 12726,
+  "do_objectID": "39363AD0-CA54-4ED3-ACB0-6ED5748A289D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 432,
+    "width": 256,
+    "x": 11646,
+    "y": 533
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4330E852-E54F-4BAD-9B98-1C8C1DC802E7"
+    },
+    {
+      "class": "group",
+      "id": "6553A619-ADBE-491E-8558-0D71D5A89ECF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B68DD07-902C-4F6D-B1ED-1BAE8D2FF1E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A3C993B1-CE4D-4EE9-879E-A220C9EA7E96"
+    },
+    {
+      "class": "text",
+      "id": "DEB96CA4-F2B5-497A-A80A-06EEFD595231"
+    },
+    {
+      "class": "text",
+      "id": "0CE2D3E3-5DD8-441C-A0CA-768CBE261478"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "622C398B-6AFB-4D0B-9350-D3BF8C01BD43"
+    },
+    {
+      "class": "group",
+      "id": "177D3BB8-AB64-4484-89AD-3AC986A87FD8"
+    },
+    {
+      "class": "text",
+      "id": "EFA58D17-B6D4-4DF8-84EE-FC84C66F8B89"
+    },
+    {
+      "class": "text",
+      "id": "3D6C3D67-2861-4582-B2BD-7BF4E6B23A89"
+    },
+    {
+      "class": "group",
+      "id": "AA87D4E0-35A4-4FB0-AE34-C4C2DA88E22F"
+    },
+    {
+      "class": "group",
+      "id": "59F63DAF-C736-4C38-A142-82801EC0F0BF"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 16.33333333333333,
+    "drawHorizontal": true,
+    "drawHorizontalLines": true,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 10,
+    "totalWidth": 256
+  },
+  "name": "ItemCard-V4--Sale---Hover",
+  "nameIsFixed": true,
+  "originalObjectID": "39363AD0-CA54-4ED3-ACB0-6ED5748A289D",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "730F5085-5A28-4899-8C5F-79A86A0AEA7F",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      414
+    ]
+  }
+}

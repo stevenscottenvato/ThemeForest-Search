@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E2D924E4-C2D1-4153-BAB3-616AED4F1006",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 512,
+    "width": 431.2527312454479,
+    "x": 79,
+    "y": 453
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 112,
+  "masterInfluenceEdgeMaxYPadding": 19,
+  "masterInfluenceEdgeMinXPadding": 11,
+  "masterInfluenceEdgeMinYPadding": 5,
+  "name": "ItemCard-Default1-Tall",
+  "nameIsFixed": false,
+  "overrides": {
+    "0D8E8BE1-BCC3-444B-9E2D-B4FC70C2F883": "Anahata - A Yoga, Fitness and Lifestyle Theme",
+    "50E03064-527F-4359-8A1C-948B87C802F4": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/754f837ffe802148ccf61e92d321e08565d53c19",
+      "_ref_class": "MSImageData"
+    },
+    "DCCD3511-C7D7-4431-857A-D84B22C0F4C3": "by Mikado-Themes",
+    "E20FA932-1CDE-4F07-B177-6F584CDAA29B": "$59"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1056AF1F-EF63-48C8-97BA-E546C23AFB66",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "262EAD7B-1094-4555-90EB-8E6D276F0043",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 518.2250530785564,
+    "width": 429.6201446073733,
+    "x": 1023.24784125029,
+    "y": 453
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 112,
+  "masterInfluenceEdgeMaxYPadding": 19,
+  "masterInfluenceEdgeMinXPadding": 11,
+  "masterInfluenceEdgeMinYPadding": 5,
+  "name": "ItemCard-Default1-Tall",
+  "nameIsFixed": false,
+  "overrides": {
+    "50E03064-527F-4359-8A1C-948B87C802F4": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/7a66208faced09d8827b8338c795f621cf80578a",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1056AF1F-EF63-48C8-97BA-E546C23AFB66",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "044E4929-CF39-454B-AFE7-0D612209AAE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 151,
+    "x": 16,
+    "y": 84
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DFA2C651-B620-4CE8-A626-A67D6FC4E7D8"
+    },
+    {
+      "class": "text",
+      "id": "ED7EF1CA-4C00-4D53-A343-B1BD2B7F6F72"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36812050-FB06-4EA4-94FA-E88AE94E791C"
+    }
+  ],
+  "name": "rating & sales",
+  "nameIsFixed": true,
+  "originalObjectID": "044E4929-CF39-454B-AFE7-0D612209AAE6",
+  "resizingConstraint": 51,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

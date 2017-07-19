@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "0675568E-2FCC-49EC-8753-699BC5F7B55E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 12.92307692307692,
+    "width": 14,
+    "x": 35.99999999999999,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9C8F6F94-658D-425F-9B5A-6D216BBEFAE0"
+    }
+  ],
+  "name": "Icon/Star/Full Copy 3",
+  "nameIsFixed": false,
+  "originalObjectID": "0675568E-2FCC-49EC-8753-699BC5F7B55E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 12.92308,
+            "enabled": 1,
+            "modelID": "constraint_9eea790b-7d22-4b86-8fb6-7d96b2f4cb81",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 14
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2c9e1e73-d339-46d9-8dd7-a71275aabb7a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

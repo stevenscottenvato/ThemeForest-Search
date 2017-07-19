@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "3317FA72-3D46-412E-BEDB-3609C7954F39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 320,
+    "x": 0,
+    "y": 513
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "332F0D42-EEF7-47D1-85BA-11D3D7A7AFE9"
+    },
+    {
+      "class": "group",
+      "id": "6430FA76-8AD7-4F18-B61C-AA809C9C2BFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1D161FC-138E-4185-BD5C-536CD0BFC1B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "413A6D11-D192-44A2-8782-4B3A93D13446"
+    }
+  ],
+  "name": "FacetBlock/Price",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

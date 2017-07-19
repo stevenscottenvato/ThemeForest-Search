@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "05A930E9-ABD6-4D99-81E0-68B210FCD39F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 1600,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "68E7916C-8490-43F8-8823-39C9485296BC"
+    },
+    {
+      "class": "text",
+      "id": "D238DAF8-D0CD-4457-B3D8-9300FA1AF4A1"
+    },
+    {
+      "class": "text",
+      "id": "33801E44-E0F9-4E70-9569-2EC28BD950B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70D28871-4C69-406E-B085-570274C3F07A"
+    }
+  ],
+  "name": "Global Footer",
+  "nameIsFixed": true,
+  "originalObjectID": "05A930E9-ABD6-4D99-81E0-68B210FCD39F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

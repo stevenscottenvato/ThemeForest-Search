@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B1484AB6-6812-40AF-BF7D-D8D1A0A0BEC7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 253.7123979220808,
+    "width": 440.9123252299702,
+    "x": 549,
+    "y": 2217
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 8,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 6,
+  "masterInfluenceEdgeMinYPadding": 4,
+  "name": "ItemCard-3--Current",
+  "nameIsFixed": false,
+  "overrides": {
+    "6549A568-E98D-488C-B3C8-707E2EB043CA": "by inwavethemes",
+    "6AC2721F-C115-495A-8C8C-174FA6B69263": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/88ef029a80d7cc7f9ee3281fef360e8709d27b1e",
+      "_ref_class": "MSImageData"
+    },
+    "7D0589E6-E0FA-46FC-A3EA-AFF73FD8A004": "Fitness WordPress Theme | Athlete Fitness",
+    "B00756EE-1B0C-4D38-8072-497A74AF22B2": "$59"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "86BDE875-EBEC-4B1C-AF66-99E0C3525E40",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 253.7124,
+            "enabled": 1,
+            "modelID": "constraint_b65569ce-45dc-4db3-9bdb-bc2cbfff9b66",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 440.9123
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_094e8f4f-a60a-456c-8b77-d72df14316f3",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

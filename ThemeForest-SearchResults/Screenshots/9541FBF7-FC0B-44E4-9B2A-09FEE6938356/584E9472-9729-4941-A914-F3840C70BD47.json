@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "584E9472-9729-4941-A914-F3840C70BD47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 512,
+    "width": 431.2527312454479,
+    "x": 555,
+    "y": 453
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 112,
+  "masterInfluenceEdgeMaxYPadding": 11,
+  "masterInfluenceEdgeMinXPadding": 12,
+  "masterInfluenceEdgeMinYPadding": 12,
+  "name": "ItemCard-Default1-Tall",
+  "nameIsFixed": false,
+  "overrides": {
+    "0CE2D3E3-5DD8-441C-A0CA-768CBE261478": "Be Fit - Fitness WordPress Theme for Gym, Yoga ...",
+    "3D6C3D67-2861-4582-B2BD-7BF4E6B23A89": "$39",
+    "433A9A3F-DBD5-4A58-A4EF-9843994C6448": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/5e476fecd45b7ccc0f3f0e25bdf9181b9eeac920",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "730F5085-5A28-4899-8C5F-79A86A0AEA7F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

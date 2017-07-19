@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3E6A9A78-EA0D-46FD-819A-3C8C403DA0BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 18,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8FEF045A-6ABA-435A-8AA8-3D9272D4B8B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E66A821-F11D-4081-A002-78881BE8FC01"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10C1CD53-0CEC-4C24-8F0C-3DBC0F129B55"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72CE6362-B505-4BF4-BB33-1E92A8AEF8BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "09434B2A-E2F8-4C37-8090-BE64E6BA100F"
+    }
+  ],
+  "name": "Cart Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "B438B454-8F88-4C6B-9746-0F47E83EF4AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 202,
+    "x": 0,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DD3683B7-41DA-4608-B3DE-C9A6548B24C1"
+    },
+    {
+      "class": "group",
+      "id": "6241427E-746E-4B35-9ACE-967F07C38F27"
+    }
+  ],
+  "name": "Range Slider",
+  "nameIsFixed": true,
+  "originalObjectID": "B438B454-8F88-4C6B-9746-0F47E83EF4AC",
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

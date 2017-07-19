@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "386D4BC6-6709-425A-B9FB-539497F1E31D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 161,
+    "x": 81,
+    "y": 393
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B76FA0FF-A68E-4A89-82AF-3D44EC0C6BB5"
+    },
+    {
+      "class": "text",
+      "id": "A61073B9-1120-414B-9FBE-6DBA37EA456D"
+    }
+  ],
+  "name": "RefineButton",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "animation": 0,
+            "customAnimationId": "",
+            "delayFromTrigger": 0,
+            "modelID": "OpenScreen_c8d2bc21-3a21-44fc-bfa5-d54cf4900bca",
+            "model_class": "ADModelActionPresentScreen",
+            "model_version": 0.1,
+            "name": "untitled",
+            "presentationType": 2,
+            "screenId": "7A3FB0C7-425C-4D8F-9489-7275FCB8FFDF",
+            "trigger": 4
+          }
+        ]
+      }
+    }
+  }
+}

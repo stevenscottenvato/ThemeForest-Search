@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DE473AA3-5C96-47EE-9656-77E47E3E850C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 512,
+    "width": 431.252731245448,
+    "x": 1025.992918719337,
+    "y": 453
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 112,
+  "masterInfluenceEdgeMaxYPadding": 19,
+  "masterInfluenceEdgeMinXPadding": 11,
+  "masterInfluenceEdgeMinYPadding": 5,
+  "name": "ItemCard-Default1-Tall",
+  "nameIsFixed": false,
+  "overrides": {
+    "50E03064-527F-4359-8A1C-948B87C802F4": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/99d5a07b3db3af2087b93d48e936c6d1d043333b",
+      "_ref_class": "MSImageData"
+    },
+    "5AA4AD52-3544-4A56-A52A-5042A97AC2BC": "Fit & Fab - Aerobic, Gym and Fitness WordPress",
+    "724E54B6-EA74-4602-99F3-663C4354DD10": "by Theemon",
+    "E20FA932-1CDE-4F07-B177-6F584CDAA29B": "$55"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1056AF1F-EF63-48C8-97BA-E546C23AFB66",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

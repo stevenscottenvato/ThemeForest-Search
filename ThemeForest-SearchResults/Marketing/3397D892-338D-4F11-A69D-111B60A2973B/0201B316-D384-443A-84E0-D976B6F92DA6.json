@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0201B316-D384-443A-84E0-D976B6F92DA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 253.7123979220808,
+    "width": 440.9123252299702,
+    "x": 549,
+    "y": 747
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 8,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 6,
+  "masterInfluenceEdgeMinYPadding": 4,
+  "name": "ItemCard-3--Current",
+  "nameIsFixed": false,
+  "overrides": {
+    "10152448-1A19-4801-ADA4-1C1154396DBA": "$34",
+    "5AEE4665-5404-4260-BEA6-989731EA4464": "by themetwins",
+    "C8A3C39C-A917-49B3-96F7-C969B2E6FDDF": "was $46",
+    "CBD7AE6F-7413-490A-999E-8B69B910DFEF": "Gym X - Fitness, Gym & Sports WordPress Theme",
+    "D0668021-B0F5-4F2C-844C-C6752BA0C757": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/25c7ef749de5bd4d7f60875cc86271493ec9263d",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9E117B91-E30C-4F30-9C09-0ADE17FA0514",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 253.7124,
+            "enabled": 1,
+            "modelID": "constraint_b65569ce-45dc-4db3-9bdb-bc2cbfff9b66",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 440.9123
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_094e8f4f-a60a-456c-8b77-d72df14316f3",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

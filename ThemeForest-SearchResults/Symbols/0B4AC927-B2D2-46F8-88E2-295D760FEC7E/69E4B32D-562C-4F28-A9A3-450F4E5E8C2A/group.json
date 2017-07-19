@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "69E4B32D-562C-4F28-A9A3-450F4E5E8C2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 5.25,
+    "width": 8,
+    "x": 4,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7A9E099C-2E41-4E8E-8CB7-EA9DDED7C04B"
+    }
+  ],
+  "name": "Icon/Arrow Down",
+  "nameIsFixed": false,
+  "originalObjectID": "69E4B32D-562C-4F28-A9A3-450F4E5E8C2A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

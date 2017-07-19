@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "98198C1A-7088-4A90-B78C-304EAE18D882",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 241,
+    "width": 320,
+    "x": 0,
+    "y": 640
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9C63A1D7-4562-4B90-A3B7-7252A70F5EFB"
+    },
+    {
+      "class": "group",
+      "id": "457DE4AD-2190-4901-A3C0-73FAFFBC8744"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D3F4122-9EF6-46BD-A83D-1BB71CC8437B"
+    }
+  ],
+  "name": "FacetBlock/Sales",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

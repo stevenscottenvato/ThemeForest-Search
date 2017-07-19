@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "F0A5A75E-3066-48FD-ABF9-69A59CCDCC02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 172,
+    "width": 1377,
+    "x": 16,
+    "y": 287
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "72E73C29-1749-47E6-9E7D-191435E6A7AC"
+    },
+    {
+      "class": "group",
+      "id": "778771EF-D2EC-4B3B-99E6-041A3FF3B430"
+    },
+    {
+      "class": "group",
+      "id": "BAEFB6BF-3CBB-4AFA-A19F-19B05F9F41A7"
+    }
+  ],
+  "name": "PeopleAlso Searched for",
+  "nameIsFixed": true,
+  "originalObjectID": "A25589FC-327F-4D9F-8F1E-BB84741BAE0A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

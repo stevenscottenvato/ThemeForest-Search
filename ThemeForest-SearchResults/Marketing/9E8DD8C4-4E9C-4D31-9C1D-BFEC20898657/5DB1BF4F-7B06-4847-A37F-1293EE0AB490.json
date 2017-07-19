@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5DB1BF4F-7B06-4847-A37F-1293EE0AB490",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 253.7123979220808,
+    "width": 440.9123252299702,
+    "x": 82,
+    "y": 1629
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 8,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 6,
+  "masterInfluenceEdgeMinYPadding": 4,
+  "name": "ItemCard-3--Current",
+  "nameIsFixed": false,
+  "overrides": {
+    "7EBB32BB-AD7E-4BF2-BDDD-B72192EE16E2": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/2371b134e05ea18d85843fecacfcc6d8650dbdf9",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A19A9913-33F1-45D5-A964-4D56C3EC3EE3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 253.7124,
+            "enabled": 1,
+            "modelID": "constraint_b65569ce-45dc-4db3-9bdb-bc2cbfff9b66",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 440.9123
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_094e8f4f-a60a-456c-8b77-d72df14316f3",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

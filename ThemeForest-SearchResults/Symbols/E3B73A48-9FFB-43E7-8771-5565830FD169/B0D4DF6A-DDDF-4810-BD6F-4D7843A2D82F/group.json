@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "B0D4DF6A-DDDF-4810-BD6F-4D7843A2D82F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 298,
+    "width": 346,
+    "x": 1015,
+    "y": 73
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FEB06AFA-F3E0-417C-A17E-35B8F67075F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8AB84A3-EB5C-4863-99EF-EBB48AB078C5"
+    },
+    {
+      "class": "text",
+      "id": "F743F261-225C-4900-8F1B-3286433E9B38"
+    },
+    {
+      "class": "text",
+      "id": "A43ACB92-B5E6-4EF3-B31D-82A61B20E867"
+    }
+  ],
+  "name": "Studio Ad",
+  "nameIsFixed": true,
+  "originalObjectID": "B0D4DF6A-DDDF-4810-BD6F-4D7843A2D82F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

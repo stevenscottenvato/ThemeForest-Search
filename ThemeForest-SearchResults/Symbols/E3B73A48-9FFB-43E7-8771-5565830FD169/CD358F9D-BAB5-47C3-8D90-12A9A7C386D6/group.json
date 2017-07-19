@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "CD358F9D-BAB5-47C3-8D90-12A9A7C386D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 298,
+    "width": 346,
+    "x": 628,
+    "y": 73
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2F916825-9767-4D75-894A-E80AC3D6D85D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "044D3588-B3E9-432A-B5C7-67282AC6811F"
+    },
+    {
+      "class": "text",
+      "id": "07B8DF46-9561-4E6B-88BA-48E3B320F379"
+    },
+    {
+      "class": "text",
+      "id": "ADAFFE86-2BC9-4E0D-85C6-497E20FA247A"
+    }
+  ],
+  "name": "Tuts Ad",
+  "nameIsFixed": true,
+  "originalObjectID": "CD358F9D-BAB5-47C3-8D90-12A9A7C386D6",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

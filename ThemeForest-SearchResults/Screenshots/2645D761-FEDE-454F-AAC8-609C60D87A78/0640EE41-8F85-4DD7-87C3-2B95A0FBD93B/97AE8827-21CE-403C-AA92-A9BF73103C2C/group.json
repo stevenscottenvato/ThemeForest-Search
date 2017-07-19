@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "97AE8827-21CE-403C-AA92-A9BF73103C2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 305,
+    "width": 320,
+    "x": 0,
+    "y": 200
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D801161A-80D7-49C0-9D23-281DEAB791C3"
+    },
+    {
+      "class": "group",
+      "id": "E035E053-0042-45E2-B26F-685B345770FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D7881EB-6527-49CE-8336-AFB282858351"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1BC40976-0BAA-4ED5-9415-F8BB8CBA4623"
+    }
+  ],
+  "name": "FacetBlock/TagsV2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

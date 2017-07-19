@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "479E7087-33A4-46BD-9398-52C0BD3F2067",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 145,
+    "x": 95,
+    "y": 392
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C4CA76D2-70D9-4B29-A532-49AFBF9EE2EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F124D2F2-4607-4ABD-929D-EF1395142EF2"
+    },
+    {
+      "class": "group",
+      "id": "91BFEB1E-3CBA-40B3-BDD6-9BAAD7204450"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1AD776C-B707-463E-B5B9-26F0E7E20B02"
+    }
+  ],
+  "name": "DoubleActionButton",
+  "nameIsFixed": false,
+  "originalObjectID": "479E7087-33A4-46BD-9398-52C0BD3F2067",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
