@@ -10,65 +10,65 @@
             "$null",
             {
               "$class": {
-                "UID": 45
+                "UID": 0
               },
               "NSAttributeInfo": {
-                "UID": 43
+                "UID": 0
               },
               "NSAttributes": {
-                "UID": 3
+                "UID": 0
               },
               "NSString": {
-                "UID": 2
+                "UID": 0
               }
             },
             "You found 13,130 photos for ‘cat’",
             {
               "$class": {
-                "UID": 42
+                "UID": 0
               },
               "NS.objects": [
                 {
-                  "UID": 4
+                  "UID": 0
                 },
                 {
-                  "UID": 27
+                  "UID": 0
                 },
                 {
-                  "UID": 36
+                  "UID": 0
                 }
               ]
             },
             {
               "$class": {
-                "UID": 26
+                "UID": 0
               },
               "NS.keys": [
                 {
-                  "UID": 5
+                  "UID": 0
                 },
                 {
-                  "UID": 6
+                  "UID": 0
                 },
                 {
-                  "UID": 7
+                  "UID": 0
                 },
                 {
-                  "UID": 8
+                  "UID": 0
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 9
+                  "UID": 0
                 },
                 {
-                  "UID": 10
+                  "UID": 0
                 },
                 {
-                  "UID": 18
+                  "UID": 0
                 },
                 {
-                  "UID": 22
+                  "UID": 0
                 }
               ]
             },
@@ -79,30 +79,30 @@
             0,
             {
               "$class": {
-                "UID": 17
+                "UID": 0
               },
               "NSFontDescriptorAttributes": {
-                "UID": 11
+                "UID": 0
               }
             },
             {
               "$class": {
-                "UID": 16
+                "UID": 0
               },
               "NS.keys": [
                 {
-                  "UID": 12
+                  "UID": 0
                 },
                 {
-                  "UID": 13
+                  "UID": 0
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 14
+                  "UID": 0
                 },
                 {
-                  "UID": 15
+                  "UID": 0
                 }
               ]
             },
@@ -127,7 +127,7 @@
             },
             {
               "$class": {
-                "UID": 21
+                "UID": 0
               },
               "NSMaxLineHeight": 28,
               "NSMinLineHeight": 28,
@@ -135,15 +135,15 @@
                 "UID": 0
               },
               "NSTextBlocks": {
-                "UID": 19
+                "UID": 0
               },
               "NSTextLists": {
-                "UID": 19
+                "UID": 0
               }
             },
             {
               "$class": {
-                "UID": 20
+                "UID": 0
               },
               "NS.objects": [
               ]
@@ -165,11 +165,11 @@
             },
             {
               "$class": {
-                "UID": 25
+                "UID": 0
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 23
+                "UID": 0
               },
               "NSRGB": {
                 "data": "0.09803921569 0.09803921569 0.09803921569\u0000",
@@ -178,7 +178,7 @@
             },
             {
               "$class": {
-                "UID": 24
+                "UID": 0
               },
               "NSID": 1
             },
@@ -205,41 +205,41 @@
             },
             {
               "$class": {
-                "UID": 26
+                "UID": 0
               },
               "NS.keys": [
                 {
-                  "UID": 7
+                  "UID": 0
                 },
                 {
-                  "UID": 28
+                  "UID": 0
                 },
                 {
-                  "UID": 5
+                  "UID": 0
                 },
                 {
-                  "UID": 8
+                  "UID": 0
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 29
+                  "UID": 0
                 },
                 {
-                  "UID": 30
+                  "UID": 0
                 },
                 {
-                  "UID": 9
+                  "UID": 0
                 },
                 {
-                  "UID": 35
+                  "UID": 0
                 }
               ]
             },
             "MSAttributedStringFontAttribute",
             {
               "$class": {
-                "UID": 21
+                "UID": 0
               },
               "NSMaxLineHeight": 28,
               "NSMinLineHeight": 28,
@@ -247,38 +247,38 @@
                 "UID": 0
               },
               "NSTextBlocks": {
-                "UID": 19
+                "UID": 0
               },
               "NSTextLists": {
-                "UID": 19
+                "UID": 0
               }
             },
             {
               "$class": {
-                "UID": 17
+                "UID": 0
               },
               "NSFontDescriptorAttributes": {
-                "UID": 31
+                "UID": 0
               }
             },
             {
               "$class": {
-                "UID": 16
+                "UID": 0
               },
               "NS.keys": [
                 {
-                  "UID": 32
+                  "UID": 0
                 },
                 {
-                  "UID": 33
+                  "UID": 0
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 14
+                  "UID": 0
                 },
                 {
-                  "UID": 34
+                  "UID": 0
                 }
               ]
             },
@@ -287,11 +287,11 @@
             ".SFNSText-Semibold",
             {
               "$class": {
-                "UID": 25
+                "UID": 0
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 23
+                "UID": 0
               },
               "NSRGB": {
                 "data": "0.09803921569 0.09803921569 0.09803921569\u0000",
@@ -300,40 +300,40 @@
             },
             {
               "$class": {
-                "UID": 26
+                "UID": 0
               },
               "NS.keys": [
                 {
-                  "UID": 7
+                  "UID": 0
                 },
                 {
-                  "UID": 28
+                  "UID": 0
                 },
                 {
-                  "UID": 8
+                  "UID": 0
                 },
                 {
-                  "UID": 5
+                  "UID": 0
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 37
+                  "UID": 0
                 },
                 {
-                  "UID": 38
+                  "UID": 0
                 },
                 {
-                  "UID": 41
+                  "UID": 0
                 },
                 {
-                  "UID": 9
+                  "UID": 0
                 }
               ]
             },
             {
               "$class": {
-                "UID": 21
+                "UID": 0
               },
               "NSMaxLineHeight": 28,
               "NSMinLineHeight": 28,
@@ -341,49 +341,49 @@
                 "UID": 0
               },
               "NSTextBlocks": {
-                "UID": 19
+                "UID": 0
               },
               "NSTextLists": {
-                "UID": 19
+                "UID": 0
               }
             },
             {
               "$class": {
-                "UID": 17
+                "UID": 0
               },
               "NSFontDescriptorAttributes": {
-                "UID": 39
+                "UID": 0
               }
             },
             {
               "$class": {
-                "UID": 16
+                "UID": 0
               },
               "NS.keys": [
                 {
-                  "UID": 32
+                  "UID": 0
                 },
                 {
-                  "UID": 33
+                  "UID": 0
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 14
+                  "UID": 0
                 },
                 {
-                  "UID": 40
+                  "UID": 0
                 }
               ]
             },
             ".SFNSText-Bold",
             {
               "$class": {
-                "UID": 25
+                "UID": 0
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 23
+                "UID": 0
               },
               "NSRGB": {
                 "data": "0.09803921569 0.09803921569 0.09803921569\u0000",
@@ -400,7 +400,7 @@
             },
             {
               "$class": {
-                "UID": 44
+                "UID": 0
               },
               "NS.data": {
                 "data": "\n\u0000\u0006\u0001\f\u0000\u0005\u0002",
@@ -425,7 +425,7 @@
           ],
           "$top": {
             "root": {
-              "UID": 1
+              "UID": 0
             }
           },
           "$version": 100000
